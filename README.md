@@ -4,6 +4,7 @@ A professional, SOC-level Incident Response Toolkit built in Python for cross-pl
 This toolkit simulates real-world Blue Team / DFIR workflows including artifact collection, log analysis, malware detection, MITRE ATT&CK mapping, SIEM-ready outputs, and reporting.
 
 🚀 Features
+
 🔍 Artifact Collection
 
 System information (OS, hostname, architecture)
@@ -56,22 +57,6 @@ Flask-based HTML dashboard
 
 Visual inspection of findings
 
-🏗️ Project Architecture
-ir_toolkit/
-│
-├── collector/          # Artifact collection modules
-├── analyzer/           # Log, YARA, MITRE analysis
-├── dashboard/          # Web dashboard (Flask)
-├── report/             # Report generation
-├── yara_rules/         # YARA detection rules
-├── data/
-│   ├── collected/
-│   ├── analysis/
-│   ├── siem/
-│
-├── main.py
-├── requirements.txt
-└── README.md
 
 ⚙️ Installation
 1️⃣ Clone the repository
