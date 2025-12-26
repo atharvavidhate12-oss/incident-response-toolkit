@@ -1,0 +1,1630 @@
+{
+  "system": {
+    "os": "Windows",
+    "os_version": "10.0.26200",
+    "hostname": "Dell",
+    "architecture": "AMD64"
+  },
+  "processes": [
+    {
+      "username": "NT AUTHORITY\\SYSTEM",
+      "name": "System Idle Process",
+      "pid": 0
+    },
+    {
+      "username": "NT AUTHORITY\\SYSTEM",
+      "name": "System",
+      "pid": 4
+    },
+    {
+      "username": null,
+      "name": "",
+      "pid": 140
+    },
+    {
+      "username": null,
+      "name": "Registry",
+      "pid": 184
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "node.exe",
+      "pid": 600
+    },
+    {
+      "username": null,
+      "name": "smss.exe",
+      "pid": 628
+    },
+    {
+      "username": null,
+      "name": "wininit.exe",
+      "pid": 748
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 756
+    },
+    {
+      "username": null,
+      "name": "csrss.exe",
+      "pid": 1000
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "brave.exe",
+      "pid": 1032
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "msedgewebview2.exe",
+      "pid": 1036
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 1116
+    },
+    {
+      "username": null,
+      "name": "services.exe",
+      "pid": 1144
+    },
+    {
+      "username": null,
+      "name": "LsaIso.exe",
+      "pid": 1156
+    },
+    {
+      "username": null,
+      "name": "lsass.exe",
+      "pid": 1172
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 1200
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 1296
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 1308
+    },
+    {
+      "username": null,
+      "name": "fontdrvhost.exe",
+      "pid": 1316
+    },
+    {
+      "username": null,
+      "name": "WUDFHost.exe",
+      "pid": 1412
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 1488
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 1532
+    },
+    {
+      "username": null,
+      "name": "WUDFHost.exe",
+      "pid": 1576
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "brave.exe",
+      "pid": 1584
+    },
+    {
+      "username": null,
+      "name": "WUDFHost.exe",
+      "pid": 1748
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 1840
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 1872
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 1900
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 1920
+    },
+    {
+      "username": null,
+      "name": "fontdrvhost.exe",
+      "pid": 1928
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "python.exe",
+      "pid": 1936
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 1940
+    },
+    {
+      "username": null,
+      "name": "WmiPrvSE.exe",
+      "pid": 1996
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2008
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2112
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2144
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2180
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "msedgewebview2.exe",
+      "pid": 2200
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "msedgewebview2.exe",
+      "pid": 2228
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2260
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2328
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2384
+    },
+    {
+      "username": null,
+      "name": "TiWorker.exe",
+      "pid": 2404
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2428
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2480
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2520
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2584
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "msedgewebview2.exe",
+      "pid": 2688
+    },
+    {
+      "username": null,
+      "name": "csrss.exe",
+      "pid": 2756
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2780
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2852
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2908
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "python.exe",
+      "pid": 2968
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 2972
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3144
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3152
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3168
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3192
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "msedgewebview2.exe",
+      "pid": 3248
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "backgroundTaskHost.exe",
+      "pid": 3252
+    },
+    {
+      "username": null,
+      "name": "MemCompression",
+      "pid": 3376
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3400
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3476
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3484
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3536
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3592
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3640
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3724
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 3776
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3780
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3792
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3824
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 3832
+    },
+    {
+      "username": null,
+      "name": "spoolsv.exe",
+      "pid": 3948
+    },
+    {
+      "username": null,
+      "name": "dasHost.exe",
+      "pid": 4000
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "powershell.exe",
+      "pid": 4008
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 4036
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "ipf_helper.exe",
+      "pid": 4100
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "brave.exe",
+      "pid": 4140
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 4168
+    },
+    {
+      "username": null,
+      "name": "wlanext.exe",
+      "pid": 4252
+    },
+    {
+      "username": null,
+      "name": "armsvc.exe",
+      "pid": 4304
+    },
+    {
+      "username": null,
+      "name": "IntelCpHDCPSvc.exe",
+      "pid": 4324
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 4344
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 4352
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 4364
+    },
+    {
+      "username": null,
+      "name": "OfficeClickToRun.exe",
+      "pid": 4384
+    },
+    {
+      "username": null,
+      "name": "ipfsvc.exe",
+      "pid": 4432
+    },
+    {
+      "username": null,
+      "name": "IntelAudioService.exe",
+      "pid": 4448
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 4560
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "msedgewebview2.exe",
+      "pid": 4580
+    },
+    {
+      "username": null,
+      "name": "jhi_service.exe",
+      "pid": 4600
+    },
+    {
+      "username": null,
+      "name": "ipf_uf.exe",
+      "pid": 4612
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 4680
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 4728
+    },
+    {
+      "username": null,
+      "name": "MpDefenderCoreService.exe",
+      "pid": 4752
+    },
+    {
+      "username": null,
+      "name": "sqlwriter.exe",
+      "pid": 4768
+    },
+    {
+      "username": null,
+      "name": "RstMwService.exe",
+      "pid": 4784
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 4808
+    },
+    {
+      "username": null,
+      "name": "UltraViewer_Service.exe",
+      "pid": 4836
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 4848
+    },
+    {
+      "username": null,
+      "name": "WavesAudioService.exe",
+      "pid": 4872
+    },
+    {
+      "username": null,
+      "name": "MsMpEng.exe",
+      "pid": 4900
+    },
+    {
+      "username": null,
+      "name": "WavesSysSvc64.exe",
+      "pid": 4936
+    },
+    {
+      "username": null,
+      "name": "RtkAudUService64.exe",
+      "pid": 4944
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "python.exe",
+      "pid": 4960
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 4972
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 4980
+    },
+    {
+      "username": null,
+      "name": "WMIRegistrationService.exe",
+      "pid": 4988
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 5012
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "AppActions.exe",
+      "pid": 5312
+    },
+    {
+      "username": null,
+      "name": "dasHost.exe",
+      "pid": 5348
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 5468
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 5492
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 5556
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 5616
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 5652
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "conhost.exe",
+      "pid": 5724
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "svchost.exe",
+      "pid": 6128
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "python.exe",
+      "pid": 6272
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "python.exe",
+      "pid": 6328
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 6452
+    },
+    {
+      "username": null,
+      "name": "WmiPrvSE.exe",
+      "pid": 6484
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 6548
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "ShellExperienceHost.exe",
+      "pid": 6640
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "WindowsPackageManagerServer.exe",
+      "pid": 6748
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "conhost.exe",
+      "pid": 6928
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "ctfmon.exe",
+      "pid": 7092
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 7144
+    },
+    {
+      "username": null,
+      "name": "BraveCrashHandler.exe",
+      "pid": 7240
+    },
+    {
+      "username": null,
+      "name": "BraveCrashHandler64.exe",
+      "pid": 7248
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "python.exe",
+      "pid": 7368
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 7568
+    },
+    {
+      "username": null,
+      "name": "AggregatorHost.exe",
+      "pid": 7672
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "brave.exe",
+      "pid": 7688
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 7700
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "msedgewebview2.exe",
+      "pid": 7852
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 7916
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "python.exe",
+      "pid": 7960
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "SDXHelper.exe",
+      "pid": 7976
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 8020
+    },
+    {
+      "username": null,
+      "name": "IntelGraphicsSoftware.Service.exe",
+      "pid": 8164
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 8236
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "SearchHost.exe",
+      "pid": 8272
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 8284
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 8308
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "svchost.exe",
+      "pid": 8324
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "StartMenuExperienceHost.exe",
+      "pid": 8372
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "conhost.exe",
+      "pid": 8440
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "brave.exe",
+      "pid": 8472
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 8488
+    },
+    {
+      "username": null,
+      "name": "PresentMonService.exe",
+      "pid": 8796
+    },
+    {
+      "username": null,
+      "name": "conhost.exe",
+      "pid": 8804
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "brave.exe",
+      "pid": 8960
+    },
+    {
+      "username": null,
+      "name": "unsecapp.exe",
+      "pid": 9068
+    },
+    {
+      "username": null,
+      "name": "WmiPrvSE.exe",
+      "pid": 9108
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 9132
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 9248
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "svchost.exe",
+      "pid": 9260
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 9376
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "conhost.exe",
+      "pid": 9424
+    },
+    {
+      "username": null,
+      "name": "SearchIndexer.exe",
+      "pid": 9468
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Widgets.exe",
+      "pid": 9528
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "conhost.exe",
+      "pid": 9728
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "PhoneExperienceHost.exe",
+      "pid": 9928
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "sihost.exe",
+      "pid": 9956
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "RuntimeBroker.exe",
+      "pid": 9960
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "svchost.exe",
+      "pid": 10008
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "conhost.exe",
+      "pid": 10044
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "WidgetService.exe",
+      "pid": 10052
+    },
+    {
+      "username": null,
+      "name": "SecurityHealthService.exe",
+      "pid": 10072
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "ShellHost.exe",
+      "pid": 10080
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "taskhostw.exe",
+      "pid": 10136
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "explorer.exe",
+      "pid": 10148
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "AdobeCollabSync.exe",
+      "pid": 10272
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 10304
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 10344
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 10368
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 10424
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 10500
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "svchost.exe",
+      "pid": 10692
+    },
+    {
+      "username": null,
+      "name": "MicrosoftEdgeUpdate.exe",
+      "pid": 10732
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "TextInputHost.exe",
+      "pid": 11128
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "powershell.exe",
+      "pid": 11272
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "RuntimeBroker.exe",
+      "pid": 11312
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "msedgewebview2.exe",
+      "pid": 11492
+    },
+    {
+      "username": null,
+      "name": "RtkAudUService64.exe",
+      "pid": 11536
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "brave.exe",
+      "pid": 11656
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 11700
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 11744
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "python.exe",
+      "pid": 11796
+    },
+    {
+      "username": null,
+      "name": "NisSrv.exe",
+      "pid": 11936
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "RuntimeBroker.exe",
+      "pid": 12064
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "svchost.exe",
+      "pid": 12104
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "powershell.exe",
+      "pid": 12112
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 12128
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "AdobeCollabSync.exe",
+      "pid": 12272
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "msedgewebview2.exe",
+      "pid": 12320
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "CrossDeviceResume.exe",
+      "pid": 12376
+    },
+    {
+      "username": null,
+      "name": "unsecapp.exe",
+      "pid": 12460
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "OneDrive.Sync.Service.exe",
+      "pid": 12500
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "python.exe",
+      "pid": 12612
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 12692
+    },
+    {
+      "username": null,
+      "name": "TrustedInstaller.exe",
+      "pid": 12736
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "conhost.exe",
+      "pid": 12752
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "python.exe",
+      "pid": 12888
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "UserOOBEBroker.exe",
+      "pid": 13016
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 13064
+    },
+    {
+      "username": null,
+      "name": "dwm.exe",
+      "pid": 13100
+    },
+    {
+      "username": null,
+      "name": "winlogon.exe",
+      "pid": 13212
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "msedgewebview2.exe",
+      "pid": 13268
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "svchost.exe",
+      "pid": 13436
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 13552
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 13620
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 13704
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 13844
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 13956
+    },
+    {
+      "username": null,
+      "name": "HPPrintScanDoctorService.exe",
+      "pid": 14072
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 14096
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "msedgewebview2.exe",
+      "pid": 14420
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "Cursor.exe",
+      "pid": 14584
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "powershell.exe",
+      "pid": 14600
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "brave.exe",
+      "pid": 14724
+    },
+    {
+      "username": null,
+      "name": "audiodg.exe",
+      "pid": 14984
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 15072
+    },
+    {
+      "username": "DELL\\Dell",
+      "name": "msedgewebview2.exe",
+      "pid": 15216
+    },
+    {
+      "username": null,
+      "name": "svchost.exe",
+      "pid": 15264
+    }
+  ],
+  "network": [
+    {
+      "local": "192.168.1.56:137",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "192.168.1.56:139",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "192.168.1.56:61606",
+      "remote": "23.192.97.247:443",
+      "status": "ESTABLISHED"
+    },
+    {
+      "local": ":::5353",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": ":::50523",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "192.168.1.56:64032",
+      "remote": "104.18.18.125:443",
+      "status": "ESTABLISHED"
+    },
+    {
+      "local": "::1:49670",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": ":::3702",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "127.0.0.1:5000",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "192.168.1.56:61535",
+      "remote": "23.193.165.42:443",
+      "status": "ESTABLISHED"
+    },
+    {
+      "local": "192.168.1.56:61578",
+      "remote": "100.52.144.74:443",
+      "status": "TIME_WAIT"
+    },
+    {
+      "local": "0.0.0.0:49666",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "0.0.0.0:49668",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "192.168.1.56:1900",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "192.168.56.1:137",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "192.168.56.1:54343",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "0.0.0.0:7680",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "192.168.1.56:61562",
+      "remote": "100.52.144.74:443",
+      "status": "TIME_WAIT"
+    },
+    {
+      "local": "127.0.0.1:19294",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "127.0.0.1:5000",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "0.0.0.0:3702",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "0.0.0.0:49669",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "0.0.0.0:51377",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": ":::135",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "192.168.56.1:138",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": ":::49665",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "192.168.1.56:61543",
+      "remote": "18.209.223.38:443",
+      "status": "ESTABLISHED"
+    },
+    {
+      "local": "192.168.1.56:51542",
+      "remote": "75.2.76.8:443",
+      "status": "ESTABLISHED"
+    },
+    {
+      "local": "::1:1900",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "192.168.1.56:60298",
+      "remote": "172.64.148.235:443",
+      "status": "ESTABLISHED"
+    },
+    {
+      "local": ":::49671",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": ":::5357",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "127.0.0.1:54345",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "127.0.0.1:64200",
+      "remote": "127.0.0.1:5000",
+      "status": "TIME_WAIT"
+    },
+    {
+      "local": "192.168.1.56:61599",
+      "remote": "167.82.56.223:443",
+      "status": "ESTABLISHED"
+    },
+    {
+      "local": "192.168.1.56:55496",
+      "remote": "98.90.234.248:443",
+      "status": "ESTABLISHED"
+    },
+    {
+      "local": "fe80::2e14:5c38:8063:22f7:54341",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "192.168.56.1:1900",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "192.168.56.1:139",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "0.0.0.0:5050",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "127.0.0.1:49871",
+      "remote": "127.0.0.1:5000",
+      "status": "TIME_WAIT"
+    },
+    {
+      "local": "0.0.0.0:5353",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "0.0.0.0:49664",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "0.0.0.0:5355",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": ":::50118",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "0.0.0.0:5040",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": ":::5353",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "192.168.1.56:61602",
+      "remote": "72.154.7.100:443",
+      "status": "TIME_WAIT"
+    },
+    {
+      "local": "192.168.1.56:56201",
+      "remote": "172.64.155.209:443",
+      "status": "TIME_WAIT"
+    },
+    {
+      "local": ":::5355",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": ":::51378",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "fe80::ea:7d4d:370d:4671:54340",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "127.0.0.1:51524",
+      "remote": "127.0.0.1:5000",
+      "status": "TIME_WAIT"
+    },
+    {
+      "local": "192.168.1.56:138",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "192.168.1.56:54344",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": ":::445",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "::1:42050",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "0.0.0.0:5357",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "192.168.1.56:54675",
+      "remote": "104.18.18.125:443",
+      "status": "ESTABLISHED"
+    },
+    {
+      "local": "0.0.0.0:445",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": ":::3702",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "0.0.0.0:50117",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "0.0.0.0:50523",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "0.0.0.0:49665",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "::1:54342",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "0.0.0.0:135",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "0.0.0.0:123",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "192.168.1.56:55534",
+      "remote": "100.52.24.219:443",
+      "status": "ESTABLISHED"
+    },
+    {
+      "local": "127.0.0.1:57730",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "0.0.0.0:49671",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "192.168.1.56:49878",
+      "remote": "34.228.96.61:443",
+      "status": "ESTABLISHED"
+    },
+    {
+      "local": "127.0.0.1:61534",
+      "remote": "127.0.0.1:5000",
+      "status": "TIME_WAIT"
+    },
+    {
+      "local": ":::49669",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "0.0.0.0:3702",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": ":::123",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": ":::49666",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "fe80::ea:7d4d:370d:4671:1900",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "192.168.1.56:49409",
+      "remote": "4.213.25.242:443",
+      "status": "ESTABLISHED"
+    },
+    {
+      "local": "0.0.0.0:5353",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": ":::49664",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": ":::5353",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "127.0.0.1:1900",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": ":::7680",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": ":::49668",
+      "remote": "",
+      "status": "LISTEN"
+    },
+    {
+      "local": "0.0.0.0:5353",
+      "remote": "",
+      "status": "NONE"
+    },
+    {
+      "local": "fe80::2e14:5c38:8063:22f7:1900",
+      "remote": "",
+      "status": "NONE"
+    }
+  ],
+  "memory": {
+    "total_memory": 8259321856,
+    "used_memory": 7505817600,
+    "top_processes": [
+      [
+        "System Idle Process",
+        8192
+      ],
+      [
+        "System",
+        143360
+      ],
+      [
+        "",
+        40595456
+      ],
+      [
+        "Registry",
+        69070848
+      ],
+      [
+        "node.exe",
+        254033920
+      ],
+      [
+        "smss.exe",
+        77824
+      ],
+      [
+        "wininit.exe",
+        135168
+      ],
+      [
+        "svchost.exe",
+        4177920
+      ],
+      [
+        "csrss.exe",
+        2867200
+      ],
+      [
+        "brave.exe",
+        95813632
+      ]
+    ]
+  },
+  "log_findings": [],
+  "yara": {
+    "error": "yara-python module not available. Install Microsoft Visual C++ Build Tools and run: pip install yara-python",
+    "matches": [],
+    "scanned_files": 0
+  },
+  "mitre": []
+}

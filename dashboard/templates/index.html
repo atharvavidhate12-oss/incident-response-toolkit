@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>IR Toolkit Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 3px solid #4CAF50;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #555;
+            margin-top: 30px;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+        .section {
+            background-color: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .system-info {
+            display: grid;
+            grid-template-columns: 200px 1fr;
+            gap: 10px;
+        }
+        .system-info dt {
+            font-weight: bold;
+            color: #666;
+        }
+        .system-info dd {
+            margin: 0;
+            color: #333;
+        }
+        .log-list {
+            list-style: none;
+            padding: 0;
+        }
+        .log-list li {
+            background-color: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 3px;
+        }
+        .error-message {
+            background-color: #f8d7da;
+            border-left: 4px solid #dc3545;
+            padding: 15px;
+            color: #721c24;
+            border-radius: 3px;
+        }
+        .success-message {
+            background-color: #d4edda;
+            border-left: 4px solid #28a745;
+            padding: 15px;
+            color: #155724;
+            border-radius: 3px;
+        }
+        .match-item {
+            background-color: #e7f3ff;
+            border-left: 4px solid #007bff;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 3px;
+        }
+        .match-item strong {
+            color: #0056b3;
+        }
+        .empty-state {
+            color: #6c757d;
+            font-style: italic;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<h1>Incident Response Dashboard</h1>
+
+<div class="section">
+    <h2>System Information</h2>
+    {% if data.system %}
+    <dl class="system-info">
+        <dt>Operating System:</dt>
+        <dd>{{ data.system.os }}</dd>
+        <dt>OS Version:</dt>
+        <dd>{{ data.system.os_version }}</dd>
+        <dt>Hostname:</dt>
+        <dd>{{ data.system.hostname }}</dd>
+        <dt>Architecture:</dt>
+        <dd>{{ data.system.architecture }}</dd>
+    </dl>
+    {% else %}
+    <p class="empty-state">No system information available</p>
+    {% endif %}
+</div>
+
+<div class="section">
+    <h2>Suspicious Logs</h2>
+    {% if data.log_findings and data.log_findings|length > 0 %}
+    <ul class="log-list">
+        {% for log in data.log_findings %}
+        <li>{{ log }}</li>
+        {% endfor %}
+    </ul>
+    {% else %}
+    <p class="empty-state">No suspicious log entries found</p>
+    {% endif %}
+</div>
+
+<div class="section">
+    <h2>YARA Matches</h2>
+    {% if data.yara.error %}
+    <div class="error-message">
+        <strong>YARA Scanner Error:</strong><br>
+        {{ data.yara.error }}
+    </div>
+    {% elif data.yara.matches and data.yara.matches|length > 0 %}
+    <div class="success-message">
+        Found {{ data.yara.matches|length }} match(es) across {{ data.yara.scanned_files }} scanned file(s)
+    </div>
+    {% for match in data.yara.matches %}
+    <div class="match-item">
+        <strong>File:</strong> {{ match.file }}<br>
+        <strong>Rule:</strong> {{ match.rule }}<br>
+        <strong>Matches:</strong> {{ match.matches|join(', ') }}
+    </div>
+    {% endfor %}
+    {% else %}
+    <p class="empty-state">No YARA rule matches found</p>
+    {% endif %}
+</div>
+
+{% if data.mitre %}
+<div class="section">
+    <h2>MITRE ATT&CK Mapping</h2>
+    {% if data.mitre and data.mitre|length > 0 %}
+    {% for item in data.mitre %}
+    <div class="match-item">
+        <strong>Indicator:</strong> {{ item.indicator }}<br>
+        <strong>Technique:</strong> {{ item.technique }}
+    </div>
+    {% endfor %}
+    {% else %}
+    <p class="empty-state">No MITRE ATT&CK mappings found</p>
+    {% endif %}
+</div>
+{% endif %}
+
+</body>
+</html>
